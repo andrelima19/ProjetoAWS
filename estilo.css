@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+#Principal{
+    margin: auto;
+    width: 700px;
+    height: 700px;
+}
+
+#area-principal{
+    width: 70%;
+    height: 70%;
+}
+
+#img1{
+    width: 300px;
+    height: 300px;
+}
